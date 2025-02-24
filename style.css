@@ -12,3 +12,12 @@ div{
 #middle{
     background-color: #81b29a;
 }
+#static #middle{
+    position: static;
+    top: 100px;
+}
+#relative #middle{
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
