@@ -1,0 +1,14 @@
+section {
+  width: 80%;
+  height: 800px;
+  /* background-image: url(https://unsplash.com/photos/a-group-of-houses-covered-in-snow-next-to-trees-KWVUfm7A0DA); */
+  /* background-size: cover; */
+  /* background-position: top; */
+  background: center/cover
+    url("https://images.unsplash.com/photo-1740137660835-8a755519b9ed?q=80&w=1115&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  margin: 0 auto;
+}
+h1 {
+  font-size: 100px;
+  color: white;
+}
