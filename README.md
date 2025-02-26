@@ -72,7 +72,10 @@ As an additional challenge, I am using the concepts learned in this repository t
 - **Display properties** to organize content blocks and images.
 - **CSS background properties** to style images effectively.
 - **CSS transitions and transformations** to add interactivity to images and text.
+-
+![photoblog](https://github.com/user-attachments/assets/2049ea93-13f1-45ba-8a78-1d9f456e3080)
 
-### Twchnologies Used
+
+### Technologies Used
 - **HTML** for structure
 - **CSS** for styling, positioning, and background manipulation
